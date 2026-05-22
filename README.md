@@ -13,4 +13,4 @@ Occasionally writing about engineering on my [personal blog](http://cunhazera.co
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Gabriel%20da%20Cunha-blue)](https://www.linkedin.com/in/gabrieldcunha)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-cunhazera-red)](https://twitter.com/cunhazera)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-cunhazera-blue)](https://twitter.com/cunhazera)
